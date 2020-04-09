@@ -18,6 +18,8 @@
     "apollo-server": "^2.11.0",
     "daf-core": "^4.0.0-beta.32",
     "daf-did-jwt": "^4.0.0-beta.32",
+    "daf-ethr-did": "^3.4.2",
+    "daf-libsodium": "^3.4.2",
     "daf-resolver": "^3.0.1",
     "daf-selective-disclosure": "^4.0.0-beta.32",
     "daf-w3c": "^4.0.0-beta.32",

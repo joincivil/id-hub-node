@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/lodash.merge": "^4.6.6",
-    "apollo-server": "^2.11.0",
+    "apollo-server": "^2.14.2",
     "daf-core": "^4.0.0-beta.32",
     "daf-did-jwt": "^4.0.0-beta.32",
     "daf-resolver": "^3.0.1",
